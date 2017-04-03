@@ -7,6 +7,7 @@ namespace Git_for_VS_Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //changes
         }
     }
 }
